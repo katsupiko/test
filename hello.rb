@@ -1,1 +1,1 @@
-puts "Hello github"
+puts "Hello"
